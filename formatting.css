@@ -1,0 +1,29 @@
+#nav{
+    color:#011936;
+    background-color: #82A3A1;
+    font: bold;
+    font-size: medium;
+    font-family: 'Gill Sans';
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  
+}
+
+#holidaypics{
+    width: 500;
+    height: 500;
+    flex-direction: row;
+}
+
+body{
+    background-color: #C0dFA1;
+    color: #465362;
+    text-align: center;
+    font-family: sans-serif;
+
+}
+
+h1{
+    color: #011936;
+}
